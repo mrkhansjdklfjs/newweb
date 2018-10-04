@@ -1,0 +1,35 @@
+body {
+
+    background-color: aliceblue;
+}
+
+
+.navigation {
+    background-color: antiquewhite;
+    text-align: center;
+
+}
+
+p {
+    font-size: 20px;
+}
+
+h5 {
+    font-size: 25px;
+}
+
+h4 {
+    font-size: 25px;
+}
+
+body{
+    border-image: url(image.JPG)
+}
+body{
+    padding: 50px;
+}
+
+
+h6{
+    font-size: 15px;
+}
